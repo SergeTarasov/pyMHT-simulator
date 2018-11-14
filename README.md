@@ -2,7 +2,7 @@
 Simulator and analyzer for pyMHT
 
 
-## Instalation
+## Installation
 
 	$ sudo python setup.py install
 	
